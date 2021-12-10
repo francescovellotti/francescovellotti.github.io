@@ -1,0 +1,211 @@
+body {
+    display: block;
+    overflow-x: hidden;
+    background-size: cover;
+    background: linear-gradient(to left,#2608a8, #567890);
+}
+
+nav {
+    background: linear-gradient(to left,#2608a8, #567890);
+}
+
+.navbar-brand img {
+    max-height: 100px;
+}
+
+.navbar-brand {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: black;
+}
+
+nav ul li a {
+    font-size: 18px;
+    margin: auto 10px;
+    font-weight: 600;
+}
+
+section {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+section h1 {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+section p {
+    font-size: 16px;
+    font-weight: 500;
+    color: blanchedalmond;
+}
+
+.card {
+    margin-bottom: 2rem;
+}
+
+button {
+    width: 150px;
+    border-radius: 50px !important;
+    margin-bottom: 3rem;
+}
+
+#main button a {
+    color: white;
+    text-decoration: none;
+}
+
+#main .img-col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+#main img {
+    max-width: 130% !important;
+    width: 50%;
+    border-radius: 200px;
+}
+
+#main .card {
+    border: 0;
+    text-align: center;
+}
+
+.fa-language, .fa-file-code, .fa-bullhorn {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+    border-radius: 0;
+    font-size: 3.5rem;
+}
+
+.btn-services {
+    border-radius: 20px !important;
+    font-size: 15px;
+}
+
+.col-12 h2 {
+    color: blanchedalmond
+}
+
+.social a {
+    font-size: 3.5em;
+    margin: 0 3rem 0 3rem;
+}
+
+.fa-facebook {
+    color: #001c58;
+}
+
+.fa-twitter {
+    color: #004279;
+}
+
+.fa-github {
+    color: #000000;
+}
+
+.fa-linkedin {
+    color: #00319c;
+}
+
+.fa-envelope {
+    color: rgb(0, 0, 121);
+}
+
+.fa-telegram {
+    color: rgb(0, 0, 161);
+}
+
+.fa-facebook:hover, .fa-twitter:hover, .fa-github:hover, .fa-linkedin:hover, .fa-envelope:hover, .fa-telegram:hover {
+    color: #ffffff;
+}
+
+#services h1 {
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+#services .row {
+    margin-bottom: 40px;
+}
+
+#studies h1 {
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+#studies p {
+    text-align: justify;
+}
+
+#studies .row {
+    margin-bottom: 50px;
+}
+
+#studies .img-col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#studies img {
+    width: 200px;
+}
+
+#jobs h1 {
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+#jobs p {
+    text-align: justify;
+}
+
+#jobs .row {
+    margin-bottom: 50px;
+}
+
+#jobs .img-col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#jobs img {
+    width: 300px;
+}
+
+#jobs .hss-logo {
+    width: 200px;
+}
+
+#internships h1 {
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+#internships p {
+    text-align: justify;
+}
+
+#internships .row {
+    margin-bottom: 50px;
+}
+
+#internships .img-col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#internships img {
+    width: 300px;
+}
