@@ -120,7 +120,7 @@ button {
     color: rgb(0, 0, 161);
 }
 
-.fa-facebook:hover, .fa-twitter:hover, .fa-github:hover, .fa-linkedin:hover, .fa-envelope:hover, .fa-telegram:hover {
+.fa-facebook:hover, .fa-github:hover, .fa-linkedin:hover, .fa-envelope:hover, .fa-telegram:hover {
     color: #ffffff;
 }
 
